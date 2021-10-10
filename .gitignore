@@ -1,0 +1,12 @@
+Dockerfile
+package-lock.json
+node_modules
+config/*
+!config/sample.json
+.DS_Store
+dump.rdb
+web/www/js-babel
+web/www/classes-babel
+web/www/modules-babel
+www/classes-babel
+.vscode
